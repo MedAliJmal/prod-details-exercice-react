@@ -1,0 +1,16 @@
+REACT JS => Open source JavaScript Library => used to build UI components.
+         => SPA : react is based on a single page application.
+         => Why we use react : - Simple to learn
+                               - Simple in debugging
+                               - JSX : Dynamic Markup (Babel : node_module  : JSX translator for browser)
+                               - Popular in the industry
+                               - Reusable components (create components as a template) 
+                               - Orgonize the structure of your app.
+
+         => Advantages of react : - Virtual Dom
+                                  - JSX
+                                  - One way data binding (props)
+                                  - Performance
+                                  - Components
+
+----------------------------------- Product details -------------------------------
